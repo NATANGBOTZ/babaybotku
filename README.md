@@ -25,13 +25,13 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeoneofc/Alphab0t12/blob/master/session.json#L1)
+[`Click Here`](https://github.com/winorohadimukti/BOT-V1/edit/main/README.md)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeoneofc/Alphab0t12/blob/master/settings.json#L1)
-- Owner name [Here](https://github.com/zeeoneofc/Alphab0t12/blob/master/settings.json#L1)
-- Botname [Here](https://github.com/zeeoneofc/Alphab0t12/blob/master/settings.json#L1)
+- Owner number [Here](https://github.com/winorohadimukti)
+- Owner name [Here](https://github.com/winorohadimukti)
+- Botname [Here](https://github.com/winorohadimukti)
 
 ## `CHANGE DYNO`
 
