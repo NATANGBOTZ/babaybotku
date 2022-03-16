@@ -9,7 +9,7 @@
 # Instalasi
 ## FOR RERMUX TERMINAL
 ```bash
-git clone https://github.com/winorohadimukti/babybot.git
+git clone https://github.com/jollymax/babybot.git
 cd babybot
 npm install
 npm start
