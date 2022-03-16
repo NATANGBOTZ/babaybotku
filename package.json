@@ -1,6 +1,6 @@
 {
-  "name": "store",
-  "version": "1.0.0",
+  "name": "babybot",
+  "version": "4.0.0",
   "description": "Follow instagram @iamramlan_",
   "main": "main.js",
   "directories": {
@@ -25,6 +25,7 @@
     "moment-timezone": "^0.5.33",
     "node-fetch": "^2.6.1",
     "parse-ms": "^2.1.0",
+    "parse-ms-js": "^1.2.0",
     "qrcode": "^1.4.4",
     "request": "^2.88.2",
     "yt-search": "^2.8.0",
@@ -32,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramlan404/STORE.git"
+    "url": "git+https://github.com/jollymax.git"
   },
   "bugs": {
-    "url": "https://github.com/Ramlan404/STORE/issues"
+    "url": "https://github.com/jollymax/issues"
   },
-  "homepage": "https://github.com/Ramlan404/STORE#readme"
+  "homepage": "https://github.com/jollymax/babybot#readme"
 }
