@@ -10,7 +10,7 @@
 ## FOR RERMUX TERMINAL
 ```bash
 git clone https://github.com/winorohadimukti/babybotku.git
-cd babybot
+cd babybotku
 npm install
 npm start
 ```
@@ -20,7 +20,7 @@ termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
 git clone https://github.com/winorohadimukti/babybotku.git
-cd babybot
+cd babybotku
 npm install
 npm start
 ```
