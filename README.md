@@ -9,8 +9,8 @@
 # Instalasi
 ## FOR RERMUX TERMINAL
 ```bash
-git clone https://github.com/winorohadimukti/babaybotku.git
-cd babaybotku
+git clone https://github.com/jollymax/babybot.git
+cd babybot
 npm install
 npm start
 ```
@@ -19,8 +19,8 @@ npm start
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/winorohadimukti/babaybotku.git
-cd babaybotku
+git clone https://github.com/jollymax/babybot.git
+cd babybot
 npm install
 npm start
 ```
