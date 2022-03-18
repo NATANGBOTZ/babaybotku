@@ -11,10 +11,8 @@
 ```bash
 git clone https://github.com/winorohadimukti/babaybotku.git
 cd babaybotku
-npm install -g pm2
-pm2 start main.js
-pm2 save
-pm2 monit
+npm install
+Npm start
 ```
 ## FOR TERMUX
 ```bash
