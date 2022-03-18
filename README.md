@@ -12,7 +12,7 @@
 git clone https://github.com/winorohadimukti/babaybotku.git
 cd babaybotku
 npm install
-Npm start
+npm start
 ```
 ## FOR TERMUX
 ```bash
