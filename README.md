@@ -9,7 +9,7 @@
 # Instalasi
 ## FOR RERMUX TERMINAL
 ```bash
-git clone https://github.com/winorohadimukti/babaybotku.git
+git clone https://github.com/winorohadimukti/babaybotku1.git
 cd babaybotku1
 npm install
 npm start
