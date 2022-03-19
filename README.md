@@ -9,15 +9,15 @@
 # Instalasi
 ## SEKEN DULU (STEP 1)
 ```bash
-git clone https://github.com/winorohadimukti/babaybotku.git
-cd babaybotku
+git clone https://github.com/winorohadimukti/babaybotku4.git
+cd babaybotku4
 npm install
 npm start
 ```
 ## SESUDAH DI SEKEN (STEP 2)
 ```bash
-git clone https://github.com/winorohadimukti/babaybotku.git
-cd babaybotku
+git clone https://github.com/winorohadimukti/babaybotku4.git
+cd babaybotku4
 npm install -g pm2
 pm2 start main.js
 pm2 save
