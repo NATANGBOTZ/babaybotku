@@ -94,7 +94,7 @@ exports.storeMenu = (prefix) => {
 ❏ ${prefix}kurang
 ❏ ${prefix}kali
 ❏ ${prefix}bagi
-❏ y < reply chat >
+❏ p < reply chat >
 ❏ d < reply chat >
 `
 }
