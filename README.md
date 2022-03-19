@@ -30,10 +30,8 @@ apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
 git clone https://github.com/jollymax/babybot.git
 cd babybot
-npm install -g pm2
-pm2 start main.js
-pm2 save
-pm2 monit
+npm install
+npm start
 ```
 
 ## Installing the FFmpeg for Windows
