@@ -9,10 +9,12 @@
 # Instalasi
 ## FOR RERMUX TERMINAL
 ```bash
-git clone https://github.com/winorohadimukti/babaybotku1.git
-cd babaybotku1
-npm install
-npm start
+git clone https://github.com/winorohadimukti/babaybotku.git
+cd babaybotku
+npm install -g pm2
+pm2 start main.js
+pm2 save
+pm2 monit
 ```
 ## FOR TERMUX
 ```bash
@@ -21,8 +23,10 @@ apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
 git clone https://github.com/jollymax/babybot.git
 cd babybot
-npm install
-npm start
+npm install -g pm2
+pm2 start main.js
+pm2 save
+pm2 monit
 ```
 
 ## Installing the FFmpeg for Windows
