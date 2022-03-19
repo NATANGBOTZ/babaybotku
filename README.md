@@ -7,10 +7,17 @@
 * Any text editor
 
 # Instalasi
-## FOR RERMUX TERMINAL
+## SEKEN DULU (STEP 1)
 ```bash
-git clone https://github.com/winorohadimukti/babaybotku3.git
-cd babaybotku3
+git clone https://github.com/winorohadimukti/babaybotku.git
+cd babaybotku
+npm install
+npm start
+```
+## SESUDAH DI SEKEN (STEP 2)
+```bash
+git clone https://github.com/winorohadimukti/babaybotku.git
+cd babaybotku
 npm install -g pm2
 pm2 start main.js
 pm2 save
