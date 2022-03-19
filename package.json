@@ -3,6 +3,7 @@
   "version": "4.0.0",
   "description": "Follow instagram @iamramlan_",
   "main": "main.js",
+  "session": "sessions.json",
   "directories": {
     "lib": "lib"
   },
