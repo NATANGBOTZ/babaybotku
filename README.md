@@ -10,11 +10,9 @@
 ## FOR RERMUX TERMINAL
 ```bash
 git clone https://github.com/winorohadimukti/babaybotku.git
-cd babaybotku
-npm install -g pm2
-pm2 start main.js
-pm2 save
-pm2 monit
+cd babaybotku1
+npm install
+npm start
 ```
 ## FOR TERMUX
 ```bash
