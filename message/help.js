@@ -1,8 +1,5 @@
 exports.menu = (ucapan, pushname, mundur, ownerName, botName, tanggal, jam, runtime, isOwner, isPremium, sisalimit, limitCount, sisaGlimit, gcount, expired, prefix) => {
     return `${ucapan} ${pushname}
-    
-Hitung Mundur Bulan Ramadhan
-${mundur}
 
 👑 Creator : ${ownerName}
 🤖 Bot Name : ${botName}
