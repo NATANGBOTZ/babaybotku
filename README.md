@@ -9,14 +9,14 @@
 # Instalasi
 ## SEKEN DULU (STEP 1)
 ```bash
-git clone https://github.com/winorohadimukti/babaybotku.git
+git clone https://github.com/NATANGBOTZ/babaybotku.git
 cd babaybotku
 npm install
 npm start
 ```
 ## SESUDAH DI SEKEN (STEP 2)
 ```bash
-git clone https://github.com/winorohadimukti/babaybotku.git
+git clone https://github.com/NATANGBOTZ/babaybotku.git
 cd babaybotku
 npm install -g pm2
 pm2 start main.js
@@ -28,7 +28,7 @@ pm2 monit
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/winorohadimukti/babaybotku.git
+git clone https://github.com/NATANGBOTZ/babaybotku.git
 cd babaybotku
 npm install
 npm start
